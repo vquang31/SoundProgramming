@@ -3,5 +3,5 @@ This library can **READ** and **Write** WAV files and edit the signals of those 
 
 Subject: Sound Programming - 2025
 
-Contributor: ZuMinnn, haidayy, HunLee
+Contributor: [ZuMinnn](https://github.com/ZuMinnn), haidayy, HunLee
 
